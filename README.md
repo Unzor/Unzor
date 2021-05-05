@@ -4,9 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unzor&theme=algolia)
 
 ### Top Projects:
-|Name|About|
-|-|-|
-|Nougat|An open-source Android VM inside your browser that is made with Browserling scripts.|
-|FylrobotJS|CollabVM bot|
-|Pythascript|A JavaScript library that lets you add Python to your website.|
-|WASMpsx|A fork of TJWei's PlayStation emulator to use for your own purposes.|
+
+<img src="https://opengraph.githubassets.com/29fa5f95d37343eba89a53bff7f78bccd58570ba17e8114f296cf040899d4a96/Unzor/Nougat" width="480px" height= "250px">
+
+<img src="https://opengraph.githubassets.com/29fa5f95d37343eba89a53bff7f78bccd58570ba17e8114f296cf040899d4a96/Unzor/FylrobotJS" width="480px" height= "250px">
+<img src="https://opengraph.githubassets.com/29fa5f95d37343eba89a53bff7f78bccd58570ba17e8114f296cf040899d4a96/Unzor/Pythascript" width="480px" height= "250px">
+<img src="https://opengraph.githubassets.com/29fa5f95d37343eba89a53bff7f78bccd58570ba17e8114f296cf040899d4a96/Unzor/WASMpsx" width="480px" height= "250px">
