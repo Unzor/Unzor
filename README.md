@@ -1,4 +1,4 @@
-### Hi there! I'm Unzor. I like making stuff in Javascript.
+### Hi there! I'm Unzor. I like making stuff in JavaScript, but I also program in Lua, HTML, CSS, and SPWN.
 ![Unzor's github stats](https://github-readme-stats.vercel.app/api?username=Unzor&theme=algolia)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Unzor&theme=algolia)
